@@ -7,7 +7,7 @@
 
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Hey+Fellas!;Myself+Rachit+Pal!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Hey+Boss!;Myname+Tristan+Pandris+Pasaribu!"/>
   </a>
 </h1>
 
@@ -55,23 +55,9 @@
 <h2 align="center">Learning</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,solidity,aws,googlecloud,electron,xd" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,solidity,aws,googlecloud" />
   </a>
 </p>
-
-<hr>
-
-
-<!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N --->
-
-<div align="center">
-  <h2 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="30px"></h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/Rachit-Pal/Rachit-Pal/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
 
 <hr>
 
