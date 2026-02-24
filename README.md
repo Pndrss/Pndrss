@@ -53,6 +53,15 @@
 <hr>
 
 
+## 🐍 Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pndrss/Pndrss/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pndrss/Pndrss/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Pndrss/Pndrss/output/github-snake.svg" />
+</picture>
+
+
 
 <!--- G R E E T I N G   T E X T   A N D   I M A G E --->
 
