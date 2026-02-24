@@ -1,13 +1,6 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat"><br>
-
-
-<!--- P R O F I L E   B A N N E R --->
-
-<h1 align="center">
-  <img src="https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg">
-</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=Tristan Pandris Pasaribu&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 
 <!--- A N I M A T E D   T E X T --->
@@ -22,31 +15,20 @@
 <!--- A B O U T   M E --->
 
 <h4 align="center">
-    ⚜️ A Web Developer, Learner and a Gamer from India ⚜️<br>
-    🎓 Doing my Bachelors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a> 🎓<br>
-    💻 I’m currently working on <a href="https://rendergfx.com/">RENDER GFX</a> 💻<br>
+    ⚜️ A Developer, Learner and interested to things about Artificial Intelligent ⚜️<br>
+    🎓 Doing my Bachelors from <a href="https://www.del.ac.id/">DEL INSTITUTE OF TECHNOLOGY</a> 🎓<br>
+    💻 I’m currently learn from <a href="https://www.dicoding.com/">DICODING</a> 💻<br>
 </h4>
 
 
 <!--- S O C I A L   M E D I A   B A D G E S --->
 
 <div align="center">
-    <a href="https://t.me/Saltam4" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/MyselfRachiit" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:RachitKrPal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/Render_GFX" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/_tristanpsrb?igsh=MWRiMXVrNTdlaDM1bg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:psrbtristan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <hr> <!--- <hr> tag is use for Horizontal Lines --->
 
-
-<!--- G I T H U B   T R O P H Y --->
-
-<h2 align="center">Github Trophy and Contribution Graph <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-01.gif" width="30px"></h2>
-<br>
-
-<p align="center">
-  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=darkhub&no-frame=true" alt="Rachit-Pal"/></a>
-</p>
 
 
 <!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
@@ -65,8 +47,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,html,js,css,wordpress,md,graphql,atom,discord" /><br>
-    <img src="https://skillicons.dev/icons?i=heroku,bootstrap,mongodb,mysql,blender,linux,vscode,ps,ae,pr,ai," />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,html,js,css,flutter,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,golang,mysql,laravel,react,vscode,docker,figma,postman" />
   </a>
 </p><br>
 
@@ -137,14 +119,6 @@
 <br><br><br><br><br><br>
 
 
-<!--- S H O W   M O R E --->
-
-<h4 align="center">
-  <a href="https://github.com/Rachit-Pal?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-<br>
-<br>
 
 <!--- G R E E T I N G   T E X T   A N D   I M A G E --->
 
