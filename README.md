@@ -34,7 +34,7 @@
 
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
